@@ -4,6 +4,10 @@
 # Log file
 *.log
 
+# Runtime data
+users.txt
+chat_history.txt
+
 # BlueJ files
 *.ctxt
 
