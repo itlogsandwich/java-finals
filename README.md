@@ -106,6 +106,9 @@ Chat messages are saved in `chat_history.txt`:
 [HH:mm:ss] username: message
 ```
 
+## Flowchart
+<img width="898" height="2154" alt="image" src="https://github.com/user-attachments/assets/bd5d5d1a-080b-4f13-85f5-15a7ec99af8b" />
+
 ## Notes
 
 - Usernames may contain letters, numbers, and underscores.
