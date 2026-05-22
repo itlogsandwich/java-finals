@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python flowchart/v2/generate_flowchart.py)"
+    ]
+  }
+}
